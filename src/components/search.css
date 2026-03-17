@@ -1,0 +1,21 @@
+form {
+    text-align: start;
+}
+input {
+    height : 2rem;
+    width : 40%;
+    background-color: #212121;
+    color : white;
+    font-size: 90%;
+    outline: none;
+    border-radius: 5px;
+    border : none;
+    padding : 0 1rem;
+}
+
+input::placeholder {
+    color : white;
+    font-size: 90%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    opacity: 0.7;
+}
